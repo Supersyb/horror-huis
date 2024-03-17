@@ -1,0 +1,401 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710707838
+A4.png::CompressedTexture2D::6382782677349290363::1709295756::1709295757::1::::<><>::
+A5.png::CompressedTexture2D::5649455030157649960::1709295756::1709295756::1::::<><>::
+banken en shit.png::CompressedTexture2D::5292884698509251537::1710432878::1710432879::1::::<><>::
+corn field.png::CompressedTexture2D::272179251875077039::1709295735::1709295736::1::::<><>::
+dungeon_.png::CompressedTexture2D::2969023872832608128::1709295923::1709295923::1::::<><>::
+export_presets.cfg::TextFile::-1::1710514733::0::1::::<><>::
+farm sample.png::CompressedTexture2D::9189845808851195206::1709295721::1709295721::1::::<><>::
+fence_remix.png::CompressedTexture2D::728742612066556652::1709295756::1709295756::1::::<><>::
+game layout.tres::MeshLibrary::7101866717771691064::1710514946::0::1::::<><>::
+icon.svg::CompressedTexture2D::7116433827333114195::1704795479::1705062379::1::::<><>::
+Inside_C.png::CompressedTexture2D::1148686500274013451::1709295756::1709295757::1::::<><>::
+Inside_D.png::CompressedTexture2D::5544655553087551365::1709295756::1709295757::1::::<><>::
+Inside_E.png::CompressedTexture2D::5419420269545464060::1709295756::1709295757::1::::<><>::
+lab horror tileset.png::CompressedTexture2D::9026709591535460996::1709295756::1709295757::1::::<><>::
+License.txt::TextFile::-1::1709295756::0::1::::<><>::
+muren en shit.png::CompressedTexture2D::8664260653043645499::1710432829::1710432831::1::::<><>::
+Outside.png::CompressedTexture2D::5381606396054929951::1709295756::1709295757::1::::<><>::
+shadows_.png::CompressedTexture2D::2269946243862251341::1709295931::1709295932::1::::<><>::
+tielmap.tscn::PackedScene::6915109378416975427::1710515303::0::1::::<><>::uid://drv4vs7leiag6::::res://TopDownHouse_FloorsAndWalls.png<>uid://hy8823nlnfx::::res://Wood Garden Asset Pack/Floor/Brown-floor-1.png<>uid://cjhhcboj6kxfw::::res://Inside_E.png<>uid://c3cuvnej3v0yf::::res://Wood Garden Asset Pack/Wood Garden Assets .png<>uid://ck84ww54ec1uf::::res://Inside_D.png<>uid://dvpbdv2d74c6n::::res://muren en shit.png<>uid://qmox038pn3it::::res://Inside_C.png<>uid://chn6bjte53le4::::res://banken en shit.png<>uid://brdwt1731jgrw::::res://TopDownHouse_DoorsAndWindows.png<>uid://d430t50slfad::::res://corn field.png<>uid://cmqvx08tmo577::::res://A5.png<>uid://cw64q64w1h5ql::::res://A4.png
+TopDownHouse_DoorsAndWindows.png::CompressedTexture2D::3587195279075029080::1709295852::1709295852::1::::<><>::
+TopDownHouse_FloorsAndWalls.png::CompressedTexture2D::8397623615582832843::1709295851::1709295852::1::::<><>::
+TopDownHouse_FurnitureState1.png::CompressedTexture2D::5571160369111998156::1709295851::1709295852::1::::<><>::
+TopDownHouse_FurnitureState2.png::CompressedTexture2D::65696478019417408::1709295852::1709295852::1::::<><>::
+TopDownHouse_SmallItems.png::CompressedTexture2D::9051504595631927266::1709295852::1709295852::1::::<><>::
+::res://tiles_laboratory_LandOfPixels/::1709295708
+LICENSE.txt::TextFile::-1::1709295708::0::1::::<><>::
+README.txt::TextFile::-1::1709295708::0::1::::<><>::
+::res://tiles_laboratory_LandOfPixels/16px/::1709296176
+spriteSheet_fireEffect03_21x26.png::CompressedTexture2D::3452196536224014766::1709295708::1709296176::1::::<><>::
+spriteSheet_lightBulbSmallAnimation_16x16.png::CompressedTexture2D::7685711459454282093::1709295708::1709296176::1::::<><>::
+spriteSheet_lightingBulb02_68x73.png::CompressedTexture2D::2148978857565950407::1709295708::1709296176::1::::<><>::
+spriteSheet_tiledLiquids_16x16.png::CompressedTexture2D::4138138108582082463::1709295708::1709296175::1::::<><>::
+tilesFloor.png::CompressedTexture2D::152709906623888801::1709295708::1709296175::1::::<><>::
+tilesStuff.png::CompressedTexture2D::4442763995657453437::1709295708::1709296175::1::::<><>::
+tilesWalls.png::CompressedTexture2D::2609967269878456973::1709295708::1709296175::1::::<><>::
+::res://tiles_laboratory_LandOfPixels/32px/::1709296175
+spriteSheet_fireEffect03_42x52.png::CompressedTexture2D::5027806021598011422::1709295708::1709296175::1::::<><>::
+spriteSheet_lightBulbSmallAnimation_32x32.png::CompressedTexture2D::4397558526805561942::1709295708::1709296175::1::::<><>::
+spriteSheet_lightingBulb02_136x146.png::CompressedTexture2D::4172488811797679948::1709295708::1709296175::1::::<><>::
+spriteSheet_tiledLiquids_32x32.png::CompressedTexture2D::2563540798912860184::1709295708::1709296175::1::::<><>::
+tilesFloor32.png::CompressedTexture2D::3092573338067764291::1709295708::1709296175::1::::<><>::
+tilesStuff.png::CompressedTexture2D::5398615679488562537::1709295708::1709296175::1::::<><>::
+tilesWalls.png::CompressedTexture2D::5345749839822187731::1709295708::1709296175::1::::<><>::
+::res://tiles_laboratory_LandOfPixels/48px/::1709296175
+spriteSheet_fireEffect03_63x78.png::CompressedTexture2D::6917082687714892462::1709295708::1709296175::1::::<><>::
+spriteSheet_lightBulbSmallAnimation_48x48.png::CompressedTexture2D::7452947379051331064::1709295708::1709296175::1::::<><>::
+spriteSheet_lightingBulb02_204x219.png::CompressedTexture2D::5985063668625285787::1709295708::1709296175::1::::<><>::
+spriteSheet_tiledLiquids_48x48.png::CompressedTexture2D::6355159337870131316::1709295708::1709296175::1::::<><>::
+tilesFloor.png::CompressedTexture2D::177917699268982989::1709295708::1709296175::1::::<><>::
+tilesStuff.png::CompressedTexture2D::6384717128658748886::1709295708::1709296175::1::::<><>::
+tilesWalls.png::CompressedTexture2D::5223888652562299612::1709295708::1709296175::1::::<><>::
+::res://tiles_laboratory_LandOfPixels/examples/::1709296175
+doorsA.png::CompressedTexture2D::5654793025333739872::1709295708::1709296175::1::::<><>::
+doorsB.png::CompressedTexture2D::7979843372138208713::1709295708::1709296175::1::::<><>::
+LabFitting01.png::CompressedTexture2D::9155484033273574037::1709295708::1709296175::1::::<><>::
+::res://Wood Garden Asset Pack/::1710432357
+Wood Garden Assets .png::CompressedTexture2D::6743510275716521377::1709296192::1709296196::1::::<><>::
+::res://Wood Garden Asset Pack/Bookshelf/::1709296198
+Bookshelf-1.png::CompressedTexture2D::7395927981557411801::1709296188::1709296198::1::::<><>::
+Bookshelf-2.png::CompressedTexture2D::419050983616279176::1709296188::1709296198::1::::<><>::
+Dark-wooden-bookshelf-1.png::CompressedTexture2D::2370629650700127999::1709296188::1709296198::1::::<><>::
+Dark-wooden-bookshelf-2.png::CompressedTexture2D::2212869769043480983::1709296188::1709296198::1::::<><>::
+Red-wooden-bookshelf-1.png::CompressedTexture2D::2298594025858590759::1709296188::1709296197::1::::<><>::
+Red-wooden-bookshelf-2.png::CompressedTexture2D::7147350915457061604::1709296188::1709296197::1::::<><>::
+::res://Wood Garden Asset Pack/Chairs/::1709296188
+::res://Wood Garden Asset Pack/Chairs/Large Chair/::1709296188
+::res://Wood Garden Asset Pack/Chairs/Large Chair/Large dark wooden chair/::1709296197
+Large-wooden-dark-chair-1.png::CompressedTexture2D::5873829438903278175::1709296188::1709296197::1::::<><>::
+Large-wooden-dark-chair-2.png::CompressedTexture2D::6273457164852235987::1709296188::1709296197::1::::<><>::
+Large-wooden-dark-chair-3.png::CompressedTexture2D::6143662787484700625::1709296188::1709296197::1::::<><>::
+Large-wooden-dark-chair-4.png::CompressedTexture2D::4654226595935970969::1709296188::1709296197::1::::<><>::
+::res://Wood Garden Asset Pack/Chairs/Large Chair/Large light wooden chair/::1709296197
+Large-chair-1.png::CompressedTexture2D::3665620347074888144::1709296188::1709296197::1::::<><>::
+Large-chair-2.png::CompressedTexture2D::6516969291290355597::1709296188::1709296197::1::::<><>::
+Large-chair-3.png::CompressedTexture2D::1312398120402487802::1709296188::1709296197::1::::<><>::
+Large-chair-4.png::CompressedTexture2D::2861916117674997045::1709296188::1709296197::1::::<><>::
+::res://Wood Garden Asset Pack/Chairs/Large Chair/Large red wooden chair/::1709296197
+Large-red-wooden-chair-1.png::CompressedTexture2D::5925968151170602177::1709296188::1709296197::1::::<><>::
+Large-red-wooden-chair-2.png::CompressedTexture2D::2556410220480957239::1709296188::1709296197::1::::<><>::
+Large-red-wooden-chair-3.png::CompressedTexture2D::5637449111906909078::1709296188::1709296197::1::::<><>::
+Large-red-wooden-chair-4.png::CompressedTexture2D::4197572221249647210::1709296188::1709296197::1::::<><>::
+::res://Wood Garden Asset Pack/Chairs/Medium Chair/::1709296188
+::res://Wood Garden Asset Pack/Chairs/Medium Chair/Medium dark wooden chair/::1709296198
+Medium-dark-wooden-chair-1.png::CompressedTexture2D::1459494960164334974::1709296188::1709296197::1::::<><>::
+Medium-dark-wooden-chair-2.png::CompressedTexture2D::1275107875256557003::1709296188::1709296198::1::::<><>::
+Medium-dark-wooden-chair-3.png::CompressedTexture2D::3415802329032174370::1709296188::1709296198::1::::<><>::
+Medium-dark-wooden-chair-4.png::CompressedTexture2D::2633635429632514539::1709296188::1709296198::1::::<><>::
+::res://Wood Garden Asset Pack/Chairs/Medium Chair/Medium red wooden chair/::1709296198
+Medium-red-wooden-chair-1.png::CompressedTexture2D::7652454514749093396::1709296188::1709296198::1::::<><>::
+Medium-red-wooden-chair-2.png::CompressedTexture2D::9001431179210682305::1709296188::1709296198::1::::<><>::
+Medium-red-wooden-chair-3.png::CompressedTexture2D::1952292172158337534::1709296188::1709296198::1::::<><>::
+Medium-red-wooden-chair-4.png::CompressedTexture2D::390194986786781325::1709296188::1709296198::1::::<><>::
+::res://Wood Garden Asset Pack/Chairs/Medium Chair/Medium wooden chair/::1709296198
+Medium-chair-1.png::CompressedTexture2D::3903169880880509449::1709296188::1709296198::1::::<><>::
+Medium-chair-2.png::CompressedTexture2D::8246608118143843910::1709296188::1709296198::1::::<><>::
+Medium-chair-3.png::CompressedTexture2D::5769414263768189498::1709296188::1709296198::1::::<><>::
+Medium-chair-4.png::CompressedTexture2D::1237113271644998198::1709296188::1709296198::1::::<><>::
+::res://Wood Garden Asset Pack/Chairs/Small Chair/::1709296188
+::res://Wood Garden Asset Pack/Chairs/Small Chair/Small dark wooden chair/::1709296198
+Small-dark-wooden-chair-1.png::CompressedTexture2D::7907150072330073760::1709296188::1709296198::1::::<><>::
+Small-dark-wooden-chair-2.png::CompressedTexture2D::346617226572827953::1709296188::1709296198::1::::<><>::
+Small-dark-wooden-chair-3.png::CompressedTexture2D::6413164464884009009::1709296188::1709296198::1::::<><>::
+Small-dark-wooden-chair-4.png::CompressedTexture2D::5408954546679247509::1709296188::1709296198::1::::<><>::
+::res://Wood Garden Asset Pack/Chairs/Small Chair/Small red wooden chair/::1709296198
+Small-red-wooden-chair-1.png::CompressedTexture2D::4553463026880256234::1709296188::1709296198::1::::<><>::
+Small-red-wooden-chair-2.png::CompressedTexture2D::2748511859282824924::1709296188::1709296198::1::::<><>::
+Small-red-wooden-chair-3.png::CompressedTexture2D::5388100714473218445::1709296188::1709296198::1::::<><>::
+Small-red-wooden-chair-4.png::CompressedTexture2D::6369952627495803216::1709296188::1709296198::1::::<><>::
+::res://Wood Garden Asset Pack/Chairs/Small Chair/Small wooden chair/::1709296197
+Small-chair-1.png::CompressedTexture2D::7686001199938935467::1709296188::1709296197::1::::<><>::
+Small-chair-2.png::CompressedTexture2D::8153401831633027555::1709296188::1709296197::1::::<><>::
+Small-chair-3.png::CompressedTexture2D::4373719715142085875::1709296188::1709296197::1::::<><>::
+Small-chair-4.png::CompressedTexture2D::2278836901004779928::1709296188::1709296197::1::::<><>::
+::res://Wood Garden Asset Pack/Chest/::1709296197
+Chest-1.png::CompressedTexture2D::6361202845892093189::1709296188::1709296197::1::::<><>::
+Chest-2.png::CompressedTexture2D::7194772850801462570::1709296188::1709296197::1::::<><>::
+Chest-3.png::CompressedTexture2D::5957179334431884708::1709296188::1709296196::1::::<><>::
+Chest-4.png::CompressedTexture2D::687482385193865214::1709296188::1709296196::1::::<><>::
+::res://Wood Garden Asset Pack/Crosses/::1709296189
+::res://Wood Garden Asset Pack/Crosses/White cross/::1709296196
+White-cross-1.png::CompressedTexture2D::5242557617479619773::1709296188::1709296196::1::::<><>::
+White-cross-2.png::CompressedTexture2D::4104820771375163272::1709296188::1709296196::1::::<><>::
+White-cross-3.png::CompressedTexture2D::2421910733765475820::1709296188::1709296196::1::::<><>::
+White-cross-4.png::CompressedTexture2D::3832524475299509120::1709296189::1709296196::1::::<><>::
+White-cross-5.png::CompressedTexture2D::3108834055925636034::1709296189::1709296196::1::::<><>::
+White-cross-6.png::CompressedTexture2D::4885933919398962459::1709296189::1709296196::1::::<><>::
+::res://Wood Garden Asset Pack/Crosses/Wooden cross/::1709296197
+Wooden-cross-1.png::CompressedTexture2D::6308005710850283361::1709296189::1709296196::1::::<><>::
+Wooden-cross-2.png::CompressedTexture2D::6066143398176266664::1709296189::1709296196::1::::<><>::
+Wooden-cross-3.png::CompressedTexture2D::1571523435784124651::1709296189::1709296196::1::::<><>::
+Wooden-cross-4.png::CompressedTexture2D::4800449834299330624::1709296189::1709296196::1::::<><>::
+Wooden-cross-5.png::CompressedTexture2D::7055562564835495882::1709296189::1709296196::1::::<><>::
+Wooden-cross-6.png::CompressedTexture2D::6551483494928955095::1709296189::1709296197::1::::<><>::
+::res://Wood Garden Asset Pack/Fences/::1709296189
+::res://Wood Garden Asset Pack/Fences/Gates/::1709296189
+::res://Wood Garden Asset Pack/Fences/Gates/White gate/::1709296197
+Large-white-gate-1.png::CompressedTexture2D::7906515778166482217::1709296189::1709296197::1::::<><>::
+Large-white-gate-2.png::CompressedTexture2D::5976332902405729246::1709296189::1709296197::1::::<><>::
+Large-white-gate-3.png::CompressedTexture2D::4856011346211748253::1709296189::1709296197::1::::<><>::
+Large-white-gate-4.png::CompressedTexture2D::3715603168890649154::1709296189::1709296197::1::::<><>::
+White-gate-1.png::CompressedTexture2D::5453510183632596239::1709296189::1709296197::1::::<><>::
+White-gate-2.png::CompressedTexture2D::5859724031520674021::1709296189::1709296197::1::::<><>::
+White-gate-3.png::CompressedTexture2D::7436801104699183666::1709296189::1709296197::1::::<><>::
+White-gate-4.png::CompressedTexture2D::7466637419941298120::1709296189::1709296197::1::::<><>::
+White-red-flower-gate-1.png::CompressedTexture2D::2524106354940793403::1709296189::1709296197::1::::<><>::
+White-red-flower-gate-2.png::CompressedTexture2D::1635185374225003920::1709296189::1709296197::1::::<><>::
+White-red-flower-gate-3.png::CompressedTexture2D::3758199163845800956::1709296189::1709296197::1::::<><>::
+White-red-flower-gate-4.png::CompressedTexture2D::6552805152769964092::1709296189::1709296197::1::::<><>::
+White-red-flower-gate-5.png::CompressedTexture2D::3085287987533517141::1709296189::1709296197::1::::<><>::
+::res://Wood Garden Asset Pack/Fences/Gates/Wood gate/::1709296200
+Large-wooden-gate-1.png::CompressedTexture2D::1225390876607814091::1709296189::1709296197::1::::<><>::
+Large-wooden-gate-2.png::CompressedTexture2D::9194183283218710391::1709296189::1709296197::1::::<><>::
+Large-wooden-gate-3.png::CompressedTexture2D::1924507358692287840::1709296189::1709296197::1::::<><>::
+Large-wooden-gate-4.png::CompressedTexture2D::2103307796121690076::1709296189::1709296197::1::::<><>::
+Wood- white-flower-gate-3.png::CompressedTexture2D::6910901123752258282::1709296189::1709296197::1::::<><>::
+Wood-red-flower-gate-1.png::CompressedTexture2D::6727283733667076750::1709296189::1709296200::1::::<><>::
+Wood-red-flower-gate-2.png::CompressedTexture2D::3967375546371644467::1709296189::1709296200::1::::<><>::
+Wood-red-flower-gate-3.png::CompressedTexture2D::8539712197172313766::1709296189::1709296200::1::::<><>::
+Wood-red-flower-gate-4.png::CompressedTexture2D::7021620613092405598::1709296189::1709296200::1::::<><>::
+Wood-red-flower-gate-5.png::CompressedTexture2D::7750309811941592181::1709296189::1709296200::1::::<><>::
+Wood-white-flower-gate-1.png::CompressedTexture2D::1927189456413206358::1709296189::1709296200::1::::<><>::
+Wood-white-flower-gate-2.png::CompressedTexture2D::8486925554124058549::1709296189::1709296200::1::::<><>::
+Wood-white-flower-gate-4.png::CompressedTexture2D::5503379695162513981::1709296189::1709296200::1::::<><>::
+Wood-white-flower-gate-5.png::CompressedTexture2D::2871249240305721333::1709296189::1709296199::1::::<><>::
+Wooden-gate-1.png::CompressedTexture2D::1610121216445853313::1709296189::1709296199::1::::<><>::
+Wooden-gate-2.png::CompressedTexture2D::6471022042423189935::1709296189::1709296199::1::::<><>::
+Wooden-gate-3.png::CompressedTexture2D::6797099254631321054::1709296189::1709296199::1::::<><>::
+Wooden-gate-4.png::CompressedTexture2D::4974546455003794308::1709296189::1709296199::1::::<><>::
+::res://Wood Garden Asset Pack/Fences/White fence/::1709296200
+Large-white-fence-1.png::CompressedTexture2D::4659960591549436070::1709296189::1709296199::1::::<><>::
+Large-white-fence-2.png::CompressedTexture2D::3656154350554134757::1709296189::1709296199::1::::<><>::
+Large-white-fence-3.png::CompressedTexture2D::888391808035673376::1709296189::1709296199::1::::<><>::
+Large-white-fence-4.png::CompressedTexture2D::7429148464224970967::1709296189::1709296199::1::::<><>::
+Large-white-fence-5.png::CompressedTexture2D::3865688973151411837::1709296189::1709296199::1::::<><>::
+White-fence-1.png::CompressedTexture2D::8842919600487684095::1709296189::1709296199::1::::<><>::
+White-fence-2.png::CompressedTexture2D::1241307228850517245::1709296189::1709296200::1::::<><>::
+White-fence-3.png::CompressedTexture2D::3358068935791897964::1709296189::1709296200::1::::<><>::
+White-fence-4.png::CompressedTexture2D::5112772188900403747::1709296189::1709296200::1::::<><>::
+White-fence-5.png::CompressedTexture2D::2345451751032951948::1709296189::1709296200::1::::<><>::
+::res://Wood Garden Asset Pack/Fences/Wooden fence/::1709296200
+Large-wooden-fence-1.png::CompressedTexture2D::7245206951161745742::1709296189::1709296200::1::::<><>::
+Large-wooden-fence-2.png::CompressedTexture2D::8230979719966368281::1709296189::1709296200::1::::<><>::
+Large-wooden-fence-3.png::CompressedTexture2D::4860266412729127213::1709296189::1709296200::1::::<><>::
+Large-wooden-fence-4.png::CompressedTexture2D::8651647032188259549::1709296189::1709296200::1::::<><>::
+Large-wooden-fence-5.png::CompressedTexture2D::3281626684571504824::1709296189::1709296200::1::::<><>::
+Wooden-fence-1.png::CompressedTexture2D::3283013551744826797::1709296189::1709296200::1::::<><>::
+Wooden-fence-2.png::CompressedTexture2D::8886850573162939134::1709296189::1709296200::1::::<><>::
+Wooden-fence-3.png::CompressedTexture2D::7542355857921641399::1709296189::1709296200::1::::<><>::
+Wooden-fence-4.png::CompressedTexture2D::1238759972815737165::1709296189::1709296200::1::::<><>::
+Wooden-fence-5.png::CompressedTexture2D::5082338563745329885::1709296189::1709296200::1::::<><>::
+::res://Wood Garden Asset Pack/Floor/::1709296200
+Brown-floor-1.png::CompressedTexture2D::15968559573960925::1709296189::1709296200::1::::<><>::
+Brown-floor-2.png::CompressedTexture2D::544968832993430056::1709296189::1709296200::1::::<><>::
+Dark-brown-floor-1.png::CompressedTexture2D::1373379693472919832::1709296189::1709296200::1::::<><>::
+Dark-brown-floor-2.png::CompressedTexture2D::8514940365266786931::1709296189::1709296200::1::::<><>::
+Rose-brown-floor-1.png::CompressedTexture2D::7194653914658640170::1709296190::1709296200::1::::<><>::
+Rose-brown-floor-2.png::CompressedTexture2D::3286337525280330596::1709296190::1709296199::1::::<><>::
+::res://Wood Garden Asset Pack/Flower box shelves/::1709296190
+::res://Wood Garden Asset Pack/Flower box shelves/Large flower box shelf/::1709296199
+Large white flower box shelf-.png::CompressedTexture2D::8403389322257217738::1709296190::1709296199::1::::<><>::
+Large wooden flower box shelf.png::CompressedTexture2D::1830376162562289380::1709296190::1709296199::1::::<><>::
+::res://Wood Garden Asset Pack/Flower box shelves/White flower box shelf/::1709296199
+White flower box shelf-1.png::CompressedTexture2D::3282558601685947396::1709296190::1709296199::1::::<><>::
+White flower box shelf-2.png::CompressedTexture2D::7187903594900349866::1709296190::1709296199::1::::<><>::
+White flower box shelf-3.png::CompressedTexture2D::8141773068370541428::1709296190::1709296199::1::::<><>::
+White flower box shelf-4.png::CompressedTexture2D::4273219995746565004::1709296190::1709296198::1::::<><>::
+White flower box shelf-5.png::CompressedTexture2D::1043444134595547360::1709296190::1709296198::1::::<><>::
+White flower box shelf-6.png::CompressedTexture2D::398249085281098353::1709296190::1709296198::1::::<><>::
+White flower box shelf-7.png::CompressedTexture2D::2665038972990087756::1709296190::1709296198::1::::<><>::
+White flower box shelf-8.png::CompressedTexture2D::8591405177541825242::1709296190::1709296198::1::::<><>::
+White flower box shelf-9.png::CompressedTexture2D::4422830619007102825::1709296190::1709296198::1::::<><>::
+White flower box shelf-10.png::CompressedTexture2D::3629157375463832510::1709296190::1709296198::1::::<><>::
+White flower box shelf-11.png::CompressedTexture2D::5219539049285304733::1709296190::1709296198::1::::<><>::
+White flower box shelf-12.png::CompressedTexture2D::1750830085439770238::1709296190::1709296198::1::::<><>::
+White flower box shelf-13.png::CompressedTexture2D::2570392215272454684::1709296190::1709296198::1::::<><>::
+White flower box shelf-14.png::CompressedTexture2D::1409655590396024029::1709296190::1709296198::1::::<><>::
+White flower box shelf-15.png::CompressedTexture2D::501754456539425677::1709296190::1709296198::1::::<><>::
+White flower box shelf-16.png::CompressedTexture2D::8450690626146049428::1709296190::1709296198::1::::<><>::
+::res://Wood Garden Asset Pack/Flower box shelves/Wooden flower box shelf/::1709296199
+Wooden flower box shelf-1.png::CompressedTexture2D::7396699185965888752::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-2.png::CompressedTexture2D::2767318219325194300::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-3.png::CompressedTexture2D::1593080825938212292::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-4.png::CompressedTexture2D::5381044683767931375::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-5.png::CompressedTexture2D::7004517475647431131::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-6.png::CompressedTexture2D::115864730304506877::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-7.png::CompressedTexture2D::6715222209736759035::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-8.png::CompressedTexture2D::5940191391890332246::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-9.png::CompressedTexture2D::7493529458112115780::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-10.png::CompressedTexture2D::3104559020845616076::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-11.png::CompressedTexture2D::2931389787736063861::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-12.png::CompressedTexture2D::5782998101433545580::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-13.png::CompressedTexture2D::277886616779928463::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-14.png::CompressedTexture2D::8998235759213579160::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-15.png::CompressedTexture2D::5305302301489436039::1709296190::1709296199::1::::<><>::
+Wooden flower box shelf-16.png::CompressedTexture2D::1650760319795498973::1709296190::1709296199::1::::<><>::
+::res://Wood Garden Asset Pack/Flower boxes/::1709296191
+::res://Wood Garden Asset Pack/Flower boxes/Large white flower box/::1709296199
+White flower box-1.png::CompressedTexture2D::46511249822501303::1709296190::1709296199::1::::<><>::
+White flower box-2.png::CompressedTexture2D::2272990878401999095::1709296190::1709296199::1::::<><>::
+White flower box-3.png::CompressedTexture2D::4877680064144141436::1709296190::1709296199::1::::<><>::
+White flower box-4.png::CompressedTexture2D::1794275919890555531::1709296190::1709296195::1::::<><>::
+White flower box-5.png::CompressedTexture2D::9055231108937334906::1709296190::1709296195::1::::<><>::
+White flower box-6.png::CompressedTexture2D::3301167443839644051::1709296190::1709296195::1::::<><>::
+White flower box-7.png::CompressedTexture2D::5575565006494458517::1709296190::1709296194::1::::<><>::
+White flower box-8.png::CompressedTexture2D::2096116280533461991::1709296190::1709296194::1::::<><>::
+White flower box-9.png::CompressedTexture2D::2443582844964273287::1709296191::1709296194::1::::<><>::
+White flower box-10.png::CompressedTexture2D::1139095693429200053::1709296190::1709296194::1::::<><>::
+White flower box-11.png::CompressedTexture2D::7213195827856037867::1709296190::1709296194::1::::<><>::
+White flower box-12.png::CompressedTexture2D::8635496817398690617::1709296190::1709296194::1::::<><>::
+White flower box-13.png::CompressedTexture2D::9195565890521886501::1709296190::1709296194::1::::<><>::
+White flower box-14.png::CompressedTexture2D::1948262245523817382::1709296190::1709296194::1::::<><>::
+White flower box-15.png::CompressedTexture2D::6626995922577366408::1709296190::1709296194::1::::<><>::
+White flower box-16.png::CompressedTexture2D::7339747640358336387::1709296190::1709296194::1::::<><>::
+White flower box-17.png::CompressedTexture2D::7800751779056056873::1709296190::1709296194::1::::<><>::
+White flower box-18.png::CompressedTexture2D::927738394644965841::1709296190::1709296194::1::::<><>::
+White flower box-19.png::CompressedTexture2D::4388293082047031953::1709296190::1709296194::1::::<><>::
+White flower box-20.png::CompressedTexture2D::6639216746336942635::1709296190::1709296194::1::::<><>::
+White flower box-21.png::CompressedTexture2D::2617103768191862258::1709296190::1709296194::1::::<><>::
+White flower box-22.png::CompressedTexture2D::3303255212075084338::1709296190::1709296194::1::::<><>::
+White flower box-23.png::CompressedTexture2D::4150421059844541740::1709296190::1709296195::1::::<><>::
+White flower box-24.png::CompressedTexture2D::2373727215783509303::1709296190::1709296195::1::::<><>::
+White flower box-25.png::CompressedTexture2D::7773653176967601678::1709296190::1709296195::1::::<><>::
+White flower box-26.png::CompressedTexture2D::4532660887984406372::1709296190::1709296195::1::::<><>::
+White flower box-27.png::CompressedTexture2D::3757262535432832710::1709296190::1709296195::1::::<><>::
+White flower box-28.png::CompressedTexture2D::459037963508033827::1709296190::1709296195::1::::<><>::
+White flower box-29.png::CompressedTexture2D::7298066018847909494::1709296190::1709296195::1::::<><>::
+White flower box-30.png::CompressedTexture2D::711525335993390392::1709296190::1709296195::1::::<><>::
+::res://Wood Garden Asset Pack/Flower boxes/Large wooden flower box/::1709296195
+Wooden flower box-1.png::CompressedTexture2D::6018876381484557983::1709296191::1709296195::1::::<><>::
+Wooden flower box-2.png::CompressedTexture2D::276552246732210218::1709296191::1709296195::1::::<><>::
+Wooden flower box-3.png::CompressedTexture2D::8755245909883922376::1709296191::1709296195::1::::<><>::
+Wooden flower box-4.png::CompressedTexture2D::3444032401808129354::1709296191::1709296195::1::::<><>::
+Wooden flower box-5.png::CompressedTexture2D::9028822467420249959::1709296191::1709296195::1::::<><>::
+Wooden flower box-6.png::CompressedTexture2D::4584330309714874677::1709296191::1709296195::1::::<><>::
+Wooden flower box-7.png::CompressedTexture2D::3665685929668686528::1709296191::1709296195::1::::<><>::
+Wooden flower box-8.png::CompressedTexture2D::7979860605860262436::1709296191::1709296195::1::::<><>::
+Wooden flower box-9.png::CompressedTexture2D::4012896698565255352::1709296191::1709296195::1::::<><>::
+Wooden flower box-10.png::CompressedTexture2D::779364533303620806::1709296191::1709296195::1::::<><>::
+Wooden flower box-11.png::CompressedTexture2D::9056228747992684280::1709296191::1709296195::1::::<><>::
+Wooden flower box-12.png::CompressedTexture2D::5948395430399681300::1709296191::1709296194::1::::<><>::
+Wooden flower box-13.png::CompressedTexture2D::1456827002012775945::1709296191::1709296194::1::::<><>::
+Wooden flower box-14.png::CompressedTexture2D::394751849654997153::1709296191::1709296194::1::::<><>::
+Wooden flower box-15.png::CompressedTexture2D::2036580162309571536::1709296191::1709296194::1::::<><>::
+Wooden flower box-16.png::CompressedTexture2D::6820735196687178980::1709296191::1709296194::1::::<><>::
+Wooden flower box-17.png::CompressedTexture2D::7263434980497993213::1709296191::1709296194::1::::<><>::
+Wooden flower box-18.png::CompressedTexture2D::1791753050949054292::1709296191::1709296194::1::::<><>::
+Wooden flower box-19.png::CompressedTexture2D::4381855257469722044::1709296191::1709296194::1::::<><>::
+Wooden flower box-20.png::CompressedTexture2D::3770625503938060328::1709296191::1709296194::1::::<><>::
+Wooden flower box-21.png::CompressedTexture2D::5897272350566541169::1709296191::1709296194::1::::<><>::
+Wooden flower box-22.png::CompressedTexture2D::8798289388959369408::1709296191::1709296194::1::::<><>::
+Wooden flower box-23.png::CompressedTexture2D::926341619568270010::1709296191::1709296194::1::::<><>::
+Wooden flower box-24.png::CompressedTexture2D::868015137047466629::1709296191::1709296194::1::::<><>::
+Wooden flower box-25.png::CompressedTexture2D::3513572765950309892::1709296191::1709296194::1::::<><>::
+Wooden flower box-26.png::CompressedTexture2D::6705919481712354121::1709296191::1709296194::1::::<><>::
+Wooden flower box-27.png::CompressedTexture2D::3766240748686875789::1709296191::1709296194::1::::<><>::
+Wooden flower box-28.png::CompressedTexture2D::3175629298939879968::1709296191::1709296194::1::::<><>::
+Wooden flower box-29.png::CompressedTexture2D::2901867697883706708::1709296191::1709296194::1::::<><>::
+Wooden flower box-30.png::CompressedTexture2D::5820120005652106142::1709296191::1709296194::1::::<><>::
+::res://Wood Garden Asset Pack/Flower boxes/Small white flower box/::1709296196
+Wood-Garden-Assets-_0021_Слой-22.png::CompressedTexture2D::1430812894125587269::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0022_Слой-23.png::CompressedTexture2D::2826671361801370245::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0023_Слой-24.png::CompressedTexture2D::1946902728946893713::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0024_Слой-25.png::CompressedTexture2D::3082050692197915996::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0025_Слой-26.png::CompressedTexture2D::8783885377891041002::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0026_Слой-27.png::CompressedTexture2D::7688353931866705612::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0027_Слой-28.png::CompressedTexture2D::1585422651808820609::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0028_Слой-29.png::CompressedTexture2D::3137802121304361533::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0029_Слой-30.png::CompressedTexture2D::6004354695766574873::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0030_Слой-31.png::CompressedTexture2D::553237799108376575::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0031_Слой-32.png::CompressedTexture2D::206878982003509532::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0032_Слой-33.png::CompressedTexture2D::6546706722286514391::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0033_Слой-34.png::CompressedTexture2D::1612029594305931902::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0034_Слой-35.png::CompressedTexture2D::719980591924639913::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0035_Слой-36.png::CompressedTexture2D::7133959813886764594::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0036_Слой-37.png::CompressedTexture2D::5413292700626591702::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0037_Слой-38.png::CompressedTexture2D::404775848064269356::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0038_Слой-39.png::CompressedTexture2D::3222996945799498819::1709296191::1709296194::1::::<><>::
+Wood-Garden-Assets-_0039_Слой-40.png::CompressedTexture2D::5619518019597771815::1709296191::1709296196::1::::<><>::
+Wood-Garden-Assets-_0040_Слой-41.png::CompressedTexture2D::3942416202258113527::1709296191::1709296196::1::::<><>::
+Wood-Garden-Assets-_0041_Слой-42.png::CompressedTexture2D::592111233770345441::1709296191::1709296196::1::::<><>::
+::res://Wood Garden Asset Pack/Flower boxes/Small wooden flower box/::1709296196
+Small wooden flower box-1.png::CompressedTexture2D::62553081659191363::1709296191::1709296196::1::::<><>::
+Small wooden flower box-2.png::CompressedTexture2D::6769343471367758183::1709296191::1709296196::1::::<><>::
+Small wooden flower box-3.png::CompressedTexture2D::5643336406234162966::1709296192::1709296196::1::::<><>::
+Small wooden flower box-4.png::CompressedTexture2D::3700406928513280392::1709296192::1709296196::1::::<><>::
+Small wooden flower box-5.png::CompressedTexture2D::4002498728012012020::1709296192::1709296196::1::::<><>::
+Small wooden flower box-6.png::CompressedTexture2D::5849727170637077710::1709296192::1709296196::1::::<><>::
+Small wooden flower box-7.png::CompressedTexture2D::18468645543012175::1709296192::1709296196::1::::<><>::
+Small wooden flower box-8.png::CompressedTexture2D::6397356354941507000::1709296192::1709296196::1::::<><>::
+Small wooden flower box-9.png::CompressedTexture2D::4977719276267652024::1709296192::1709296196::1::::<><>::
+Small wooden flower box-10.png::CompressedTexture2D::5587466220948496326::1709296191::1709296196::1::::<><>::
+Small wooden flower box-11.png::CompressedTexture2D::8326215921450387122::1709296191::1709296196::1::::<><>::
+Small wooden flower box-12.png::CompressedTexture2D::9113568617319903343::1709296191::1709296196::1::::<><>::
+Small wooden flower box-13.png::CompressedTexture2D::7436402590279650002::1709296191::1709296196::1::::<><>::
+Small wooden flower box-14.png::CompressedTexture2D::1471775967667032514::1709296191::1709296196::1::::<><>::
+Small wooden flower box-15.png::CompressedTexture2D::2896329116877564969::1709296191::1709296196::1::::<><>::
+Small wooden flower box-16.png::CompressedTexture2D::4336265663898451691::1709296191::1709296196::1::::<><>::
+Small wooden flower box-17.png::CompressedTexture2D::3640108231027261067::1709296191::1709296196::1::::<><>::
+Small wooden flower box-18.png::CompressedTexture2D::4431450318032862346::1709296191::1709296196::1::::<><>::
+Small wooden flower box-19.png::CompressedTexture2D::2913949473745176479::1709296191::1709296196::1::::<><>::
+Small wooden flower box-20.png::CompressedTexture2D::3207890538142834982::1709296191::1709296196::1::::<><>::
+Small wooden flower box-21.png::CompressedTexture2D::1116073458981352766::1709296191::1709296196::1::::<><>::
+::res://Wood Garden Asset Pack/Small Shovel/::1709296196
+Small-shovel.png::CompressedTexture2D::5296119836981266188::1709296192::1709296196::1::::<><>::
+::res://Wood Garden Asset Pack/Stairs/::1709296196
+Wood-stairs-1.png::CompressedTexture2D::7358189715566002554::1709296192::1709296196::1::::<><>::
+Wood-stairs-2.png::CompressedTexture2D::3644784996999662524::1709296192::1709296196::1::::<><>::
+Wood-stairs-3.png::CompressedTexture2D::6439151246013022996::1709296192::1709296196::1::::<><>::
+Wood-stairs-4.png::CompressedTexture2D::655224880533614441::1709296192::1709296196::1::::<><>::
+Wood-stairs-5.png::CompressedTexture2D::5069916850220098323::1709296192::1709296196::1::::<><>::
+Wood-stairs-6.png::CompressedTexture2D::57898971982118834::1709296192::1709296196::1::::<><>::
+Wood-stairs-7.png::CompressedTexture2D::4573042323365969941::1709296192::1709296196::1::::<><>::
+Wood-stairs-8.png::CompressedTexture2D::696862489049411790::1709296192::1709296196::1::::<><>::
+Wood-stairs-9.png::CompressedTexture2D::5530034761979172543::1709296192::1709296196::1::::<><>::
+Wood-stairs-10.png::CompressedTexture2D::1065997956029714459::1709296192::1709296196::1::::<><>::
+Wood-stairs-11.png::CompressedTexture2D::5636835530903103966::1709296192::1709296196::1::::<><>::
+Wood-stairs-12.png::CompressedTexture2D::1672116060625526656::1709296192::1709296196::1::::<><>::
+::res://Wood Garden Asset Pack/Table/::1709296196
+Table-1.png::CompressedTexture2D::4319901667121361695::1709296192::1709296196::1::::<><>::
+Table-2.png::CompressedTexture2D::339826396018456231::1709296192::1709296195::1::::<><>::
+::res://Wood Garden Asset Pack/Wooden path/::1709296192
+::res://Wood Garden Asset Pack/Wooden path/Dark wooden path/::1709296195
+Dark-wooden-path-1.png::CompressedTexture2D::819299962499819635::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-2.png::CompressedTexture2D::4678379443115941672::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-3.png::CompressedTexture2D::5501654285659268005::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-4.png::CompressedTexture2D::5775995723488626524::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-5.png::CompressedTexture2D::4189356569310431686::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-6.png::CompressedTexture2D::2410904193925724084::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-7.png::CompressedTexture2D::1423063523668979693::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-8.png::CompressedTexture2D::6135919798638060740::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-9.png::CompressedTexture2D::8114837269862376599::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-10.png::CompressedTexture2D::6233244602409430295::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-11.png::CompressedTexture2D::7073149838366753795::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-12.png::CompressedTexture2D::598563680209910549::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-13.png::CompressedTexture2D::2106871762008181866::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-14.png::CompressedTexture2D::1051999595915045092::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-15.png::CompressedTexture2D::3911658316019397026::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-16.png::CompressedTexture2D::2840468419674607548::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-17.png::CompressedTexture2D::2403825475657604613::1709296192::1709296195::1::::<><>::
+Dark-wooden-path-18.png::CompressedTexture2D::2269642396811305395::1709296192::1709296195::1::::<><>::
+::res://Wood Garden Asset Pack/Wooden path/Light wooden path/::1709296196
+Wooden-path-1.png::CompressedTexture2D::4330441393625804852::1709296192::1709296196::1::::<><>::
+Wooden-path-2.png::CompressedTexture2D::6346621098510327362::1709296192::1709296196::1::::<><>::
+Wooden-path-3.png::CompressedTexture2D::7037810416040004947::1709296192::1709296196::1::::<><>::
+Wooden-path-4.png::CompressedTexture2D::700609247951958492::1709296192::1709296196::1::::<><>::
+Wooden-path-5.png::CompressedTexture2D::2015398538283724605::1709296192::1709296196::1::::<><>::
+Wooden-path-6.png::CompressedTexture2D::700563150768246232::1709296192::1709296196::1::::<><>::
+Wooden-path-7.png::CompressedTexture2D::8536772532806342442::1709296192::1709296196::1::::<><>::
+Wooden-path-8.png::CompressedTexture2D::8892788934211043019::1709296192::1709296195::1::::<><>::
+Wooden-path-9.png::CompressedTexture2D::7798920934511502781::1709296192::1709296195::1::::<><>::
+Wooden-path-10.png::CompressedTexture2D::4715186710269983516::1709296192::1709296195::1::::<><>::
+Wooden-path-11.png::CompressedTexture2D::6555919146458973894::1709296192::1709296195::1::::<><>::
+Wooden-path-12.png::CompressedTexture2D::2382385245895262295::1709296192::1709296195::1::::<><>::
+Wooden-path-13.png::CompressedTexture2D::6953456353647316955::1709296192::1709296195::1::::<><>::
+Wooden-path-14.png::CompressedTexture2D::8814592197128477248::1709296192::1709296195::1::::<><>::
+Wooden-path-15.png::CompressedTexture2D::4034550683330942541::1709296192::1709296195::1::::<><>::
+Wooden-path-16.png::CompressedTexture2D::5988837417517038951::1709296192::1709296195::1::::<><>::
+Wooden-path-17.png::CompressedTexture2D::7566678312042521800::1709296192::1709296195::1::::<><>::
+Wooden-path-18.png::CompressedTexture2D::7381043866669288600::1709296192::1709296195::1::::<><>::
